@@ -18,11 +18,11 @@ Below is the list of files included in the repository:
 
 ### Model Files
 
-1. ``:
+1. `Tfidf vectorizer`:
 
    - Contains the saved TF-IDF vectorizer used for transforming text into numerical features.
 
-2. ``:
+2. `sentiment model`:
 
    - Pre-trained sentiment classification model used for predicting the sentiment of reviews.
 
