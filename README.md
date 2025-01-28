@@ -26,33 +26,33 @@ Below is the list of files included in the repository:
 
    - Pre-trained sentiment classification model used for predicting the sentiment of reviews.
 
-3. ``:
+3. `label encoder`:
 
    - Contains the label encoder to map numeric predictions back to categorical sentiments (Positive, Neutral, Negative).
 
 ### Dataset
 
-4. ``:
+4. `cleaned dataset`:
 
    - Cleaned and preprocessed dataset used for training and testing the model. The dataset was obtained from **Hugging Face**.
 
-5. ``:
+5. `tfidf_features`:
 
    - Saved features for TF-IDF, including training and test splits: `X_train`, `X_test`, `y_train`, and `y_test`.
 
 ### Application Files
 
-6. ``:
+6. `sentiment_app`:
 
    - Main Streamlit application file for running the sentiment analysis app.
 
-7. ``:
+7. `sentiment image`:
 
    - An image or banner used in the Streamlit interface for enhancing visual appeal.
 
 ### Other
 
-8. ``:
+8. `app sentiment analysis`:
    - Additional supporting files or scripts for the sentiment analysis app.
 
 ## How to Run the App
